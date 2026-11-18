@@ -12,6 +12,9 @@ def multiply(a,b):
 def divide(a,b):
         return a/b
 
+def CircleArea(r):
+        if 
+
 def main():
         while True:
                 a = float(input("First number: "))
